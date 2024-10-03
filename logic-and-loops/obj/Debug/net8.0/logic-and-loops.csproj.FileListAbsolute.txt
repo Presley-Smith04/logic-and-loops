@@ -1,0 +1,14 @@
+C:\Users\presl\source\repos\logic-and-loops\logic-and-loops\bin\Debug\net8.0\logic-and-loops.exe
+C:\Users\presl\source\repos\logic-and-loops\logic-and-loops\bin\Debug\net8.0\logic-and-loops.deps.json
+C:\Users\presl\source\repos\logic-and-loops\logic-and-loops\bin\Debug\net8.0\logic-and-loops.runtimeconfig.json
+C:\Users\presl\source\repos\logic-and-loops\logic-and-loops\bin\Debug\net8.0\logic-and-loops.dll
+C:\Users\presl\source\repos\logic-and-loops\logic-and-loops\bin\Debug\net8.0\logic-and-loops.pdb
+C:\Users\presl\source\repos\logic-and-loops\logic-and-loops\obj\Debug\net8.0\logic-and-loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\presl\source\repos\logic-and-loops\logic-and-loops\obj\Debug\net8.0\logic-and-loops.AssemblyInfoInputs.cache
+C:\Users\presl\source\repos\logic-and-loops\logic-and-loops\obj\Debug\net8.0\logic-and-loops.AssemblyInfo.cs
+C:\Users\presl\source\repos\logic-and-loops\logic-and-loops\obj\Debug\net8.0\logic-and-loops.csproj.CoreCompileInputs.cache
+C:\Users\presl\source\repos\logic-and-loops\logic-and-loops\obj\Debug\net8.0\logic-and-loops.dll
+C:\Users\presl\source\repos\logic-and-loops\logic-and-loops\obj\Debug\net8.0\refint\logic-and-loops.dll
+C:\Users\presl\source\repos\logic-and-loops\logic-and-loops\obj\Debug\net8.0\logic-and-loops.pdb
+C:\Users\presl\source\repos\logic-and-loops\logic-and-loops\obj\Debug\net8.0\logic-and-loops.genruntimeconfig.cache
+C:\Users\presl\source\repos\logic-and-loops\logic-and-loops\obj\Debug\net8.0\ref\logic-and-loops.dll
